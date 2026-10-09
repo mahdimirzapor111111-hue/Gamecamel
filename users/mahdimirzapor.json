@@ -56,8 +56,8 @@
   },
   "campaignCompletedIndex": 3,
   "avatar": "https://appassets.androidplatform.net/assets/assets/rostam_hero_1791041080508-hArU2IiH.jpg",
-  "createdAt": 1790698008216,
-  "lastLogin": 1791562008216,
+  "createdAt": 1790700087805,
+  "lastLogin": 1791564087805,
   "clanId": "clan_iran_lions",
   "clanRole": "sultan",
   "lastClanLeaveTimestamp": null,
@@ -92,6 +92,6 @@
     "count": 0
   },
   "defenseMatchHistory": [],
-  "lastServerValidatedAt": 1791562009484,
+  "lastServerValidatedAt": 1791564089025,
   "integritySignature": "6eb3d268323581785d439914ff53fcc9a99fdeba6e95171f62189def7c3ab7f7"
 }
