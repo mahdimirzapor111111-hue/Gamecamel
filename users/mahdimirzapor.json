@@ -7,14 +7,14 @@
   "bio": "جهان‌پهلوان و بنیان‌گذار دربار نبرد پادشاهان",
   "role": "admin",
   "level": 6,
-  "xp": 2600,
-  "gold": 10059,
+  "xp": 2700,
+  "gold": 10119,
   "gems": 500,
   "usd": 250,
   "trophies": 2930,
-  "wins": 49,
+  "wins": 50,
   "losses": 1,
-  "totalDamage": 2540,
+  "totalDamage": 2660,
   "unlockedCardIds": [
     "hero_rostam",
     "hero_arash",
@@ -44,33 +44,33 @@
   ],
   "cardProgress": {
     "hero_rostam": {
-      "wins": 7,
-      "xp": 550,
+      "wins": 8,
+      "xp": 650,
       "level": 4
     },
     "hero_arash": {
-      "wins": 4,
-      "xp": 320,
+      "wins": 5,
+      "xp": 420,
       "level": 3
     },
     "hero_kaveh": {
-      "wins": 1,
-      "xp": 100,
+      "wins": 2,
+      "xp": 200,
       "level": 2
     },
     "hero_siyavash": {
-      "wins": 1,
-      "xp": 100,
+      "wins": 2,
+      "xp": 200,
       "level": 2
     },
     "hero_sohrab": {
-      "wins": 1,
-      "xp": 100,
+      "wins": 2,
+      "xp": 200,
       "level": 2
     },
     "hero_simurgh": {
-      "wins": 1,
-      "xp": 100,
+      "wins": 2,
+      "xp": 200,
       "level": 2
     }
   },
@@ -86,9 +86,7 @@
   "gifts": [],
   "eventProgress": {
     "total_wins": 1,
-    "event_weekly_wins_1": 1,
-    "total_level_ups": 4,
-    "event_monthly_level_ups_1": 4
+    "event_weekly_wins_1": 1
   },
   "defenseDeck": [
     [
@@ -142,6 +140,6 @@
       "leagueId": "champion"
     }
   ],
-  "lastServerValidatedAt": 1791559573482,
-  "integritySignature": "319467495e706299b65f8c18e02506e953745991438dade60f7c709a05442198"
+  "lastServerValidatedAt": 1791559582741,
+  "integritySignature": "ad152dce513413da229b414b5ce617f4fe914fd3307df05783f8fb654489d27c"
 }
