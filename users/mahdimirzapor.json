@@ -7,14 +7,14 @@
   "bio": "جهان‌پهلوان و بنیان‌گذار دربار نبرد پادشاهان",
   "role": "admin",
   "level": 6,
-  "xp": 2700,
-  "gold": 10119,
+  "xp": 2720,
+  "gold": 10139,
   "gems": 500,
   "usd": 250,
   "trophies": 2930,
   "wins": 50,
-  "losses": 1,
-  "totalDamage": 2660,
+  "losses": 2,
+  "totalDamage": 2780,
   "unlockedCardIds": [
     "hero_rostam",
     "hero_arash",
@@ -84,10 +84,7 @@
   "isBanned": false,
   "banReason": "",
   "gifts": [],
-  "eventProgress": {
-    "total_wins": 1,
-    "event_weekly_wins_1": 1
-  },
+  "eventProgress": {},
   "defenseDeck": [
     [
       "hero_kaveh",
@@ -140,6 +137,6 @@
       "leagueId": "champion"
     }
   ],
-  "lastServerValidatedAt": 1791559582741,
-  "integritySignature": "ad152dce513413da229b414b5ce617f4fe914fd3307df05783f8fb654489d27c"
+  "lastServerValidatedAt": 1791559594471,
+  "integritySignature": "b8f35f13aa715cd14d6c0d3574ccb29e0a2caadc39560169d68e3989cddb2a73"
 }
