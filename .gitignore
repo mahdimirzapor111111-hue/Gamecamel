@@ -1,0 +1,31 @@
+*.iml
+.gradle
+.gradle/
+.kotlin
+.kotlin/
+/local.properties
+local.properties
+/.idea
+.idea/
+.DS_Store
+
+# Build folders and binaries
+build/
+*/build/
+**/build/
+app/build/
+.build-outputs/
+*.apk
+*.aab
+*.idsig
+
+# Captures and Native
+/captures
+.externalNativeBuild
+.cxx
+
+# Secrets and Keystores
+.env
+.env.local
+debug.keystore
+debug.keystore.base64

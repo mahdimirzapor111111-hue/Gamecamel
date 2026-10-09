@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="fa" dir="rtl">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover" />
+    <title>نبرد پادشاهان - بازی کارتی شاهنامه</title>
+    <meta name="description" content="بازی استراتژیک کارتی و نبرد قهرمانان اساطیری شاهنامه با قابلیت ادیتور پیشرفته، چیدمان ۶×۳، مسابقات آنلاین، اتحادیه و بازارچه" />
+    <script src="./assets/github-cloud-sync.js"></script>
+    <script type="module" crossorigin src="./assets/index-WA3TFXYh.js"></script>
+    <link rel="stylesheet" crossorigin href="./assets/index-C-lJ72WD.css">
+    <script>
+      // Android bridge and navigation back button handler
+      window.handleAndroidBack = function() {
+        var closeBtns = document.querySelectorAll('button[title*="بستن"], button[aria-label*="بستن"], button:has(svg.lucide-x)');
+        for (var i = 0; i < closeBtns.length; i++) {
+          if (closeBtns[i].offsetParent !== null) {
+            closeBtns[i].click();
+            return true;
+          }
+        }
+        return false;
+      };
+      if (window.navigator) {
+        window.navigator.vibrate = function(pattern) {
+          if (window.AndroidBridge && window.AndroidBridge.vibrate) {
+            var ms = Array.isArray(pattern) ? (pattern[0] || 40) : (pattern || 40);
+            window.AndroidBridge.vibrate(ms);
+            return true;
+          }
+          return false;
+        };
+      }
+    </script>
+  </head>
+  <body class="bg-[#120b08] text-stone-100 select-none antialiased overflow-hidden">
+    <div id="root"></div>
+  </body>
+</html>

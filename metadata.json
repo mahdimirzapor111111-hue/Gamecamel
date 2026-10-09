@@ -1,0 +1,6 @@
+{
+  "name": "نبرد پادشاهان",
+  "description": "بازی استراتژیک کارتی شاهنامه - نبرد قهرمانان اساطیری، چیدمان ارتش ۶×۳، مسابقات و اتحادیه برای گوشی و تبلت",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
