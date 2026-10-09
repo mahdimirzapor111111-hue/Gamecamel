@@ -1,0 +1,122 @@
+{
+  "id": "user_admin",
+  "username": "Mahdimirzapor",
+  "password": "Mahdimirzapor",
+  "displayName": "مهدی میرزاپور (مدیر کل)",
+  "title": "👑 شاهنشاه اسطوره‌ها",
+  "bio": "جهان‌پهلوان و بنیان‌گذار دربار نبرد پادشاهان",
+  "role": "admin",
+  "level": 10,
+  "xp": 2500,
+  "gold": 9999,
+  "gems": 500,
+  "usd": 250,
+  "trophies": 2930,
+  "wins": 48,
+  "losses": 1,
+  "totalDamage": 2420,
+  "unlockedCardIds": [
+    "hero_rostam",
+    "hero_arash",
+    "hero_simurgh",
+    "hero_kaveh",
+    "hero_siyavash",
+    "hero_div_sepid",
+    "hero_sohrab",
+    "spell_atash_varjam"
+  ],
+  "activeDeck": [
+    [
+      "hero_kaveh",
+      null,
+      "hero_siyavash"
+    ],
+    [
+      "hero_arash",
+      "hero_sohrab",
+      "hero_simurgh"
+    ],
+    [
+      null,
+      "hero_rostam",
+      null
+    ]
+  ],
+  "cardProgress": {
+    "hero_rostam": {
+      "wins": 6,
+      "level": 4,
+      "xp": 450
+    },
+    "hero_arash": {
+      "wins": 3,
+      "level": 3,
+      "xp": 220
+    }
+  },
+  "campaignCompletedIndex": 3,
+  "avatar": "https://appassets.androidplatform.net/assets/assets/rostam_hero_1791041080508-hArU2IiH.jpg",
+  "createdAt": 1790693093691,
+  "lastLogin": 1791559277730,
+  "clanId": "clan_iran_lions",
+  "clanRole": "sultan",
+  "lastClanLeaveTimestamp": null,
+  "isBanned": false,
+  "banReason": "",
+  "gifts": [],
+  "eventProgress": {},
+  "defenseDeck": [
+    [
+      "hero_kaveh",
+      null,
+      "hero_siyavash"
+    ],
+    [
+      "hero_arash",
+      "hero_sohrab",
+      "hero_simurgh"
+    ],
+    [
+      null,
+      "hero_rostam",
+      null
+    ]
+  ],
+  "hasDefenseDeckSet": true,
+  "defenseWins": 23,
+  "defenseLosses": 0,
+  "unclaimedDefenseRewards": {
+    "gold": 900,
+    "gems": 30,
+    "trophies": 80,
+    "count": 2
+  },
+  "defenseMatchHistory": [
+    {
+      "id": "def_1791557122614_4bbj",
+      "attackerId": "user_sohrab_champion",
+      "attackerName": "سهراب یل",
+      "attackerAvatar": "https://appassets.androidplatform.net/assets/assets/sohrab_hero_1791041145655-CtgKH50K.jpg",
+      "timestamp": 1791557122614,
+      "defenderWon": true,
+      "rewardGold": 450,
+      "rewardGems": 15,
+      "rewardTrophies": 40,
+      "leagueId": "champion"
+    },
+    {
+      "id": "def_1791557122104_scuv",
+      "attackerId": "user_sohrab_champion",
+      "attackerName": "سهراب یل",
+      "attackerAvatar": "https://appassets.androidplatform.net/assets/assets/sohrab_hero_1791041145655-CtgKH50K.jpg",
+      "timestamp": 1791557122104,
+      "defenderWon": true,
+      "rewardGold": 450,
+      "rewardGems": 15,
+      "rewardTrophies": 40,
+      "leagueId": "champion"
+    }
+  ],
+  "lastServerValidatedAt": 1791559278935,
+  "integritySignature": "bae6a78d79847be7ae5c6aaed405d42c565749c4ee8bad888c490f4dab7367d9"
+}
