@@ -6,15 +6,15 @@
   "title": "👑 شاهنشاه اسطوره‌ها",
   "bio": "جهان‌پهلوان و بنیان‌گذار دربار نبرد پادشاهان",
   "role": "admin",
-  "level": 10,
-  "xp": 2500,
-  "gold": 9999,
+  "level": 6,
+  "xp": 2600,
+  "gold": 10059,
   "gems": 500,
   "usd": 250,
   "trophies": 2930,
-  "wins": 48,
+  "wins": 49,
   "losses": 1,
-  "totalDamage": 2420,
+  "totalDamage": 2540,
   "unlockedCardIds": [
     "hero_rostam",
     "hero_arash",
@@ -44,14 +44,34 @@
   ],
   "cardProgress": {
     "hero_rostam": {
-      "wins": 6,
-      "level": 4,
-      "xp": 450
+      "wins": 7,
+      "xp": 550,
+      "level": 4
     },
     "hero_arash": {
-      "wins": 3,
-      "level": 3,
-      "xp": 220
+      "wins": 4,
+      "xp": 320,
+      "level": 3
+    },
+    "hero_kaveh": {
+      "wins": 1,
+      "xp": 100,
+      "level": 2
+    },
+    "hero_siyavash": {
+      "wins": 1,
+      "xp": 100,
+      "level": 2
+    },
+    "hero_sohrab": {
+      "wins": 1,
+      "xp": 100,
+      "level": 2
+    },
+    "hero_simurgh": {
+      "wins": 1,
+      "xp": 100,
+      "level": 2
     }
   },
   "campaignCompletedIndex": 3,
@@ -64,7 +84,12 @@
   "isBanned": false,
   "banReason": "",
   "gifts": [],
-  "eventProgress": {},
+  "eventProgress": {
+    "total_wins": 1,
+    "event_weekly_wins_1": 1,
+    "total_level_ups": 4,
+    "event_monthly_level_ups_1": 4
+  },
   "defenseDeck": [
     [
       "hero_kaveh",
@@ -117,6 +142,6 @@
       "leagueId": "champion"
     }
   ],
-  "lastServerValidatedAt": 1791559278935,
-  "integritySignature": "bae6a78d79847be7ae5c6aaed405d42c565749c4ee8bad888c490f4dab7367d9"
+  "lastServerValidatedAt": 1791559573482,
+  "integritySignature": "319467495e706299b65f8c18e02506e953745991438dade60f7c709a05442198"
 }
